@@ -124,6 +124,12 @@ Clone this repository to your desired folder:
 - LinkedIn: [Javier Vargas](https://www.linkedin.com/in/javier-alejandro-vargas-ortega)
 - Twitter [@Javivy_2803](https://twitter.com/Javivy_2803)
 
+👤 **Abdelaziz Mahdi**
+
+- GitHub: [@Abdelaziz-Mahdi](https://github.com/Abdelaziz-Mahdi)
+- Twitter: [@_AbdelazizMahdi](https://twitter.com/_AbdelazizMahdi)
+- LinkedIn: [in/abdelaziz-mahdi](https://www.linkedin.com/in/abdelaziz-mahdi)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
