@@ -110,3 +110,7 @@ INSERT INTO visits (animals_id, vets_id, visit_date) VALUES(9,2,'2020-08-03');
 INSERT INTO visits (animals_id, vets_id, visit_date) VALUES(10,3,'2020-05-24'); 
 
 INSERT INTO visits (animals_id, vets_id, visit_date) VALUES(10,1,'2021-01-11'); 
+
+-- /* Project 5*/
+
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
