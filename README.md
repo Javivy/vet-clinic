@@ -1,5 +1,8 @@
 # curriculum-databases-projects-template
 
+![image](https://github.com/Javivy/vet-clinic/assets/84439052/11b810b9-48c3-4eff-98b2-075f19ad69ab)
+
+
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
